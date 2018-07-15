@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530241230 source:/home/michael/Desktop/computerGraphics/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<glm/glm.hpp>
+
